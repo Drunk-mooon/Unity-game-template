@@ -73,3 +73,4 @@ crashlytics-build.properties
 
 #large file
 /Resources/SIMKAI SDF.asset
+/sam.pth
